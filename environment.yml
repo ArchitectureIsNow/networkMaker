@@ -3,9 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - io
   - pandas
   - networkx
-  - math
   - ipywidgets
   - pip
